@@ -55,6 +55,7 @@ Here is an exploratory visualization of the data set. It is a table structured i
 * Number of occurrences in Validation set
 * Number of occurrences in Test set
 
+report-images/01-dataset-summary.png
 ![alt text][image1]
 
 ### Design and Test a Model Architecture
