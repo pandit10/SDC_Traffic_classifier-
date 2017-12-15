@@ -130,8 +130,8 @@ The code for calculating the accuracy of the model is located in the code cell *
 My final model results were:
 
 * training set accuracy of **0.99303**
-* validation set accuracy of **0.94580**
-* test set accuracy of **0.92605**
+* validation set accuracy of **0.93878**
+* test set accuracy of **0.92652**
 
 This solution based on modified LeNet-5 architecture. With the original LeNet-5 architecture, I've got a validation set accuracy of about 0.88.
 
